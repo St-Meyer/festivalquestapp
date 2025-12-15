@@ -1,6 +1,6 @@
 # festivalquestapp
 
-a app for festival-campgrounds to quest
+a app for quests on an festival-campground
 
 ## Getting Started
 
